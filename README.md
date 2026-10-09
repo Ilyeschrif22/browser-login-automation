@@ -5,7 +5,7 @@ Browser automation project using Python and SeleniumBase to automate login workf
 ## Requirements
 
 * Python 3.12+
-* Google Chrome
+* Google Chrome (install separately — SeleniumBase does NOT install Chrome)
 * Git
 
 ## Installation
